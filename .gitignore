@@ -1,0 +1,11 @@
+#Temporary or intermediate files
+obj/
+Temp/
+Build/
+Library/
+
+#Log files
+Logs/
+
+.vs/
+*.csproj
